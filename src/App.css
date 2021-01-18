@@ -2,6 +2,20 @@
   text-align: center;
 }
 
+.header{
+  text-align: center;
+  
+}
+
+.button{
+  margin-left: 47%;
+  width: 5%
+}
+
+.counter{
+  margin-left: 47%;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
